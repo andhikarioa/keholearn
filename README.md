@@ -1,5 +1,9 @@
 # README
 
+Excited to learn rails from zero!
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
