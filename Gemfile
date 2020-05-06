@@ -62,3 +62,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rails_layout'
+gem 'bootstrap-sass'
+gem 'rails-ujs', '~> 0.1.0'
